@@ -8,7 +8,10 @@
 </p>
 
 ## 📌 About Me
-- I am currently learning Data Structures & Algorithms, and advanced full-stack development while continuously contributing to open-source projects and collaborating on meaningful real-world applications. Alongside development, I serve as the Technical Lead at the AI Innovators Club, where I help organize AI workshops, hackathons, and technical events. I am actively looking for internship opportunities where I can apply my knowledge, and grow as a developer.
+- Currently learning Data Structures & Algorithms and advanced full-stack development
+- Continuously contributing to open-source projects and collaborating on real-world applications
+- Serving as the Technical Lead at the AI Innovators Club, organizing AI workshops, hackathons, and technical events
+- Actively looking for internship opportunities to apply my skills and grow as a developer
 
 
 ## 📊 GitHub Stats & Trophies
@@ -26,9 +29,9 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Programming and Scripting Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
