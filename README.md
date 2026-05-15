@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Sai Vardhan Kareka</h1>
 <h3 align="center">Computer Science Student | Full Stack Developer | Open Source Contributor</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Vardhan2006">
-    <img src="https://komarev.com/ghpvc/?username=Vardhan2006&label=Profile%20views&color=00FFFF&style=flat-square" alt="Vardhan2006's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - Currently learning Data Structures & Algorithms and advanced full-stack development
 - Continuously contributing to open-source projects and collaborating on real-world applications
