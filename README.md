@@ -1,29 +1,30 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Sai Vardhan Kareka</h1>
 <h3 align="center">Computer Science & Engineering Student | Full Stack Developer | Open Source Contributor</h3>
 
-## 📌 About Me
+## About Me
 - Currently learning Data Structures & Algorithms and advanced full-stack development
 - Continuously contributing to open-source projects and collaborating on real-world applications
 - Serving as the Technical Lead at the AI Innovators Club, organizing AI workshops, hackathons, and technical events
 - Actively looking for internship opportunities to apply my skills and grow as a developer
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Vardhan2006">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vardhan2006&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Vardhan2006's GitHub Stats" />
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Vardhan2006&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Vardhan2006&theme=dracula&hide_border=true&cache_seconds=86400" alt="Vardhan2006's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Vardhan2006&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sai Vardhan Kareka's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Vardhan2006&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sai Vardhan Kareka's GitHub Trophies" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vardhan2006&theme=dracula&radius=10" alt="Vardhan2006's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vardhan2006&theme=radical&radius=10" alt="Vardhan2006's Activity Graph" />
 </p>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <h3 align="center">Programming and Scripting Languages</h3>
 <p align="center">
@@ -37,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
 </p>
 
@@ -61,7 +61,7 @@
 
 </p>
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ksaivardhan">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
