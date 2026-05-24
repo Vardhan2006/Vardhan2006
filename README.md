@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Sai Vardhan Kareka</h1>
-<h3 align="center">Computer Science & Engineering Student | Full Stack Developer | Open Source Contributor</h3>
+<h3 align="center">Computer Science & Engineering Student | Open Source Contributor | Full Stack Developer</h3>
 
 ## About Me
 - Currently learning Data Structures & Algorithms and advanced full-stack development
@@ -14,7 +14,7 @@
 ## GitHub Stats & Trophies
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Vardhan2006&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Vardhan2006&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
   </a>
 </p>
 
