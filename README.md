@@ -4,7 +4,7 @@
 ## About Me
 - Currently learning Data Structures & Algorithms and advanced full-stack development
 - Continuously contributing to open-source projects and collaborating on real-world applications
-- Serving as the Technical Lead at the AI Innovators Club, organizing AI workshops, hackathons, and technical events
+- Serving as the Technical Lead at the AI Innovators Club, organizing AI workshops, hackathons.
 - Actively looking for internship opportunities to apply my skills and grow as a developer
 
 ## Tech Stack
