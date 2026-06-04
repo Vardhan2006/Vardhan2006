@@ -14,7 +14,7 @@
 ## GitHub Stats & Trophies
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Vardhan2006&theme=radical&hide_border=true&cache_seconds=600" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Vardhan2006&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
   </a>
 </p>
 
