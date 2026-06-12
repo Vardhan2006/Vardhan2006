@@ -4,8 +4,8 @@
 ## About Me
 - Currently learning Data Structures & Algorithms and advanced full-stack development
 - Continuously contributing to open-source projects and collaborating on real-world applications
-- Serving as the Technical Lead at the AI Innovators Club, organizing AI workshops, hackathons.
 - Actively looking for internship opportunities to apply my skills and grow as a developer
+- There is no finished version of me yet....
 
 ## Tech Stack
 
@@ -16,10 +16,6 @@
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://streak-stats.demolab.com?user=Vardhan2006&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Vardhan2006&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sai Vardhan Kareka's GitHub Trophies" />
 </p>
 
 <p align="center">
