@@ -5,7 +5,6 @@
 - Currently learning Data Structures & Algorithms and advanced full-stack development
 - Continuously contributing to open-source projects and collaborating on real-world applications
 - Actively looking for internship opportunities to apply my skills and grow as a developer
-- There is no finished version of me yet....
 
 ## Tech Stack
 
